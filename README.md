@@ -12,3 +12,5 @@ It has a large database of over 10,000 doctors which can be used to find the nea
 * Python 3.9 (While installing, specify in the checkbox to place the executable file into PATH)
 
 ## Getting Started
+* First, download the repository to your local machine.
+* ``` pip install -r requirements.txt ```
