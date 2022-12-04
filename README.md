@@ -14,3 +14,6 @@ It has a large database of over 10,000 doctors which can be used to find the nea
 ## Getting Started
 * First, download the repository to your local machine.
 * ``` pip install -r requirements.txt ```
+* If that doesn't work, try ``` python -m pip install -r requirements.txt ```
+* Run the main file by ``` python main.py ``` . This will run a web server at local host with port 8000.
+* In your browser, go to "localhost:8000" to view the website.
