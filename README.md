@@ -9,6 +9,7 @@ It has a large database of over 10,000 doctors which can be used to find the nea
 
 ## Requirements
 -> Any browser which is equivalent to or over Chrome 5.0.
+
 -> Python 3.9 (While installing, specify in the checkbox to place the executable file into PATH)
 
 ## Getting Started
