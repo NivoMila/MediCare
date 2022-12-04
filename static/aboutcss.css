@@ -1,0 +1,47 @@
+body {
+    font-family: "Open Sans" , sans-serif;
+    background-color: #e04c8c;
+}
+
+.about-heading {
+    background-color: #e0008c;
+    font-size: 35px;
+    position: absolute;
+    margin: 0px;
+    width: 500px;
+    height: 50px;
+    left: 500px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.five-doctors {
+    width: 500px;
+    margin-left: 15%
+}
+
+.our-motto {
+    background-color: #e0008c;
+    width: 120px;
+    height: 33px;
+    border-radius: 5px;
+}
+
+
+.features {
+    background-color: #e0008c;
+    width: 100px;
+    height: 36px;
+    border-radius: 5px;
+}
+
+.disclaimer {
+    background-color: #e0008c;
+    width: 127px;
+    height: 36px;
+    border-radius: 5px;
+}
+
+.about-body {
+    color: white;
+}

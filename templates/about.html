@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans">
+        <title>
+            About
+        </title>
+        <link rel = "stylesheet" href = "static/style.css">    
+    </head>    
+    <body>
+        <ul>
+            <li><a href="/home">Home</a></li>
+            <li><a href="/finddoctors">Find Doctors</a></li>
+            <li><a href="/about">About</a></li>
+        </ul>
+        <br>
+        <br>
+        <div class="about-body">
+            <h1 class="about-heading">
+                Find a Doctor. Save a life.
+            </h1>
+            <br><br><br>
+            <br>
+            <img class="five-doctors" src="{{url_for('static', filename='doctors.jpeg')}}" alt="Photo of 5 doctors">
+            <br>
+            <br>
+            <br>
+            <div class="content">
+                <p>
+                <b>MediCare is the newest venture in medical technology, and is on a mission to provide easy accessibility of over 10,000 doctors in various specializations, catered for the needs and requirements of elderly people across India. </b>
+                </p>
+                <h2 class="our-motto">
+                    Our Motto
+                </h2>
+                <p>
+                    Technology which is simple enough that can be used by anyone!
+                </p>
+                <h2 class="features">
+                    Features
+                </h2>
+                <p>
+                    <li>
+                        Extensive database of over 10,000 doctors across the country.
+                    </li>
+                    <br>
+                    <li>
+                        Easy to access UI for the benefit of elderly people.
+                    </li>
+                    <br>
+                    <li>
+                        Identification of specialized doctors based on required treatment for a specified disease.
+                    </li>
+                    <br>
+                </p>
+                <h2 class="disclaimer">
+                    Disclaimer!
+                </h2>
+                <p>
+                    The database of all doctors and their respective specializations along with their addresses are all completely fictional. No actual living or dead persons are intended or should be inferred.
+                </p>
+            </div>
+        </div>
+    </body>
+</html>
