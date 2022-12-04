@@ -8,8 +8,7 @@ MediCare is a website used to aid elderly people in finding the nearest doctors 
 It has a large database of over 10,000 doctors which can be used to find the nearest doctor at any given place.
 
 ## Requirements
--> Any browser which is equivalent to or over Chrome 5.0.
-
--> Python 3.9 (While installing, specify in the checkbox to place the executable file into PATH)
+* Any browser which is equivalent to or over Chrome 5.0.
+* Python 3.9 (While installing, specify in the checkbox to place the executable file into PATH)
 
 ## Getting Started
