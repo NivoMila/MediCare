@@ -103,13 +103,13 @@ td:hover {
         rgba(220, 138, 120, 1),
         rgba(220, 138, 120, 0.1)
     );
-    width: 50%;
+    width: 45%;
     height: 400px;
     font-size: 20px;
     margin: auto;
     text-align: center;
     position: absolute;
-    left: 40%;
+    left: 50%;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
